@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dimitricze, you can call me (any time) koppel
-- 👀 I’m interested in python, c++, c# and lua
-- 🌱 I’m currently learning python
+- 👀 I’m interested in c++, c# and lua
+- 🌱 I want to learn python
 - 📫 How to reach me: discord: koppel#1940, 

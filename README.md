@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dimitricze (koppel)
-- 👀 I’m interested in c/c++, python and lua scripting
-- 📫 How to reach me: discord - koppel#1940, telegram - @luaboss
+- 👀 I’m interested in lua scripting ,c/c++, python and some html/css 
+- 📫 How to reach me: discord - luacoder, telegram - @luaboss
